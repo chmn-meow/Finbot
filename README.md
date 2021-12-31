@@ -1,0 +1,1 @@
+This is merely an initial exploration of differing methods of automating certain financial operations.  Will be updated periodically, and, if it develops to a usable point without an official "use this" announcement, use at your own risk.  
